@@ -1,0 +1,88 @@
+{
+    "currency": 600,
+    "skillTree": {
+        "keys": [
+            "Dodge",
+            "Multiple Destruction",
+            "Chain Saw Sword",
+            "Blackhole",
+            "Explosion",
+            "Mirage Parry",
+            "Mirage Blink",
+            "Vulnerability",
+            "Controlled Destruction",
+            "Time Stop",
+            "Crystal Mirage",
+            "Dodge Mirage",
+            "Time Mirage",
+            "Parry",
+            "Restore With Parry",
+            "Crystal",
+            "Bouncy Sword",
+            "Multiple Mirage",
+            "Dash Avoid",
+            "Bullet Sword",
+            "Aggresive Mirage",
+            "Dash",
+            "Clone Dash",
+            "Sword Throw"
+        ],
+        "values": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    "inventory": {
+        "keys": [
+            "e4a7c7f7af100f045ac26c9e014a7adb"
+        ],
+        "values": [
+            1
+        ]
+    },
+    "equipmentId": [],
+    "checkpoints": {
+        "keys": [
+            "b43756bf-a070-4f1d-a7b8-eab27359e3a9"
+        ],
+        "values": [
+            true
+        ]
+    },
+    "closestCheckpointId": "b43756bf-a070-4f1d-a7b8-eab27359e3a9",
+    "lostCurrencyX": 8.502775192260743,
+    "lostCurrencyY": 0.31825387477874758,
+    "lostCurrencyAmount": 0,
+    "volumeSettings": {
+        "keys": [
+            "bgm",
+            "sfx"
+        ],
+        "values": [
+            0.0,
+            0.0
+        ]
+    }
+}
